@@ -1,3 +1,2 @@
-github: dennisreimann
 custom:
-  - https://d11n.net/donate.html
+  - ["lightning:donate@d11n.net", "⚡️ Lightning Address: donate@d11n.net"]
